@@ -1,0 +1,44 @@
+
+
+
+RICING: https://dev.to/nucleofusion/complete-beginners-guide-to-linux-ricing-4i0e
+
+devops: https://youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10&si=H_Ki-C-Lc0kq-SpI
+
+RAG: https://thisisrishi.medium.com/retrieval-augmented-generation-rag-simplified-1e6b73d7928d
+
+11:15 
+- Need to make the doc gen independent, user should be asked right after running the analyse command, what needs to be analysed? If someone doesn't need security analysis, don't run that step to make things faster. Is this already possible?
+- The report seems to have redundant sections and might be missing some information that is being collected but not used in the document, can you thoroughly review the document and suggest what should be done? PFA- an old report but the gist remains the same
+- How much is being stored in the db? What's added in the document, is it or is it not stored in the db?
+    - Enable better debugging display which section takes more time, what % is Determinsiitic & LLM based understand. Every section added in the document, display the time taken / tokens used / etc for EACH CARD in doc gen
+
+- 3 hour reduction --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

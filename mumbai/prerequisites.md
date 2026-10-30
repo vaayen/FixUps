@@ -1,0 +1,65 @@
+Please provide a study plan for studying these topics from my BCA related subjects, as well. 
+
+Merge common topics please. Please show me a way that feels easy to implement and actually is easy.
+
+Systems Analysis and Design
+17 common: 0 to practise (numericals/programs/algorithms), 4 to understand (concepts/diagrams), 13 to memorise
+- Data Flow Diagrams – draw Level 0/1/2 for a given system; DFD concepts (8/8)
+- ER diagram for a given system / database design from ERD (7/8)
+- CASE tools – definition, components, categories, uses (7/8)
+- Types of information systems – TPS, MIS, DSS, expert, real-time, distributed (7/8)
+- Role, duties & skills of a systems analyst (6/8)
+- SRS outline for a given system (5/8)
+- SDLC – definition and phases (5/8)
+- Feasibility study – need, technical/operational/economic, cost-benefit analysis (5/8)
+- Modularity – coupling & cohesion (5/8)
+- Development approaches – prototyping, waterfall, spiral (4/8)
+- Software maintenance – types (adaptive, preventive…) (4/8)
+- Form & report design (4/8)
+- Requirements gathering – fact-finding techniques, JAD (4/8)
+- System security & audit controls / audit trails (4/8)
+- Structured vs object-oriented analysis; UML (class, state machine, interaction diagrams) (4/8)
+- Design principles – top-down vs bottom-up (3/8)
+- System documentation – types and process (3/8)
+
+Intro to Software Engineering
+16 common: 0 to practise (numericals/programs/algorithms), 6 to understand (concepts/diagrams), 10 to memorise
+- SRS in IEEE format for an online system (8/8)
+- DFDs – Level 0 & Level 1 for an online system (8/8)
+- GANTT & PERT charts for project scheduling (8/8)
+- Software process models – waterfall, prototype, spiral, iterative enhancement, RAD; comparisons (8/8)
+- Object-oriented design – static objects, application/logic objects, utility objects, identifying objects (8/8)
+- Software testing – black/white box, alpha/beta, system/regression, acceptance, test cases, principles (7/8)
+- ER diagram for an online system (6/8)
+- UML – use case diagram, class diagram (6/8)
+- Function-oriented design & structured analysis – design principles, structure charts (5/8)
+- SEI-CMM maturity levels (4/8)
+- Software quality – definition, McCall's factors, SQA, cost of quality (4/8)
+- Debugging – strategies and challenges (4/8)
+- Module testing vs integration testing (4/8)
+- Data dictionary (3/8)
+- Coupling & cohesion (3/8)
+- Software maintenance – need and types (3/8)
+
+Java
+20 common: 2 to practise (numericals/programs/algorithms), 8 to understand (concepts/diagrams), 10 to memorise
+- Polymorphism – method overloading vs overriding, dynamic binding (8/8)
+- Exception handling – checked vs unchecked, throw vs throws, final/finally/finalize (8/8)
+- File I/O & streams – file read/write programs, byte vs character streams, PrintWriter/PrintStream, StreamTokenizer (8/8)
+- Inheritance, interfaces & abstract classes – multiple inheritance via interfaces, class implementing two interfaces (7/8)
+- Applets – applet vs application, life cycle, why no main() in applets (7/8)
+- Multithreading – thread life cycle, Runnable, priorities, synchronisation, inter-thread communication (7/8)
+- JDBC – connection steps, driver types, architecture (7/8)
+- GUI – AWT vs Swing, layout managers, containers, event handling/listeners (7/8)
+- OOP concepts – OOP vs structured programming, class/object, abstraction & encapsulation (7/8)
+- Object serialisation (transient & volatile) (6/8)
+- Servlets – GET vs POST, life cycle, session handling & cookies (5/8)
+- String vs StringBuffer (5/8)
+- RMI architecture, stub & skeleton, RMI vs RPC (4/8)
+- Sockets – stream vs datagram, TCP/IP programming (java.net) (4/8)
+- public static void main – components, why static (3/8)
+- Java Beans (3/8)
+- JVM / JRE / JDK, platform independence (3/8)
+- Garbage collection (3/8)
+- Packages, classpath & access specifiers (3/8)
+- Java programs – 3×3 matrix addition with constructor, factorial (3/8)
